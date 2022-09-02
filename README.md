@@ -4,8 +4,9 @@ This code can classify 10 handwritten digit by simple neural network using Pytor
 # Framework
 Pytorch. I am using pytorch here as most of the recent researchers and scientist are using this famework insted of TensorFlow. Also I have heard Pytorch is comparetively easy to learn for begineer like me.
 
-# Problem
-Classification. 10 classes of handwritten digit classification
+# Problem Type
+Classification. 
+10 classes of handwritten digit classification
 
 # Neural Network Hyperparameter
 Epoch = 2, 
