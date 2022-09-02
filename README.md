@@ -2,8 +2,8 @@
 This code can classify 10 handwritten digit by simple neural network using Pytorch
 
 # Problem Type
-Classification, 
-Number of Class = 10,
+Classification (using Logistic Regression), 
+Number of Classes = 10,
 Task: handwritten digit classification
 
 # Dataset
